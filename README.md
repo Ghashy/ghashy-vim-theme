@@ -4,6 +4,8 @@ _"ghashy"_ is a dark GUI colorscheme only for Vim.
 
 _"ghashy"_ is a **GUI-only** colorscheme. Works in MacVim, gvim or terminals with `termguicolors` support.
 
+It based on [molokai](https://github.com/tomasr/molokai) theme and [Godot's](https://godotengine.org) script editor.
+
 **Screenshot:**
 ==========
 ![2](https://user-images.githubusercontent.com/109857267/188645822-eb759e44-1c0f-4927-ae57-dc70e2812250.png)
