@@ -16,6 +16,7 @@ Installation
 ==========
 
 Download the `ghashy.vim` file and put it in ~/.vim/colors/ folder.
-There are modified syntax files for this theme for c/c++/gdscript
+
+Also there are optional modified syntax files for this theme for c/c++/gdscript
 
 
