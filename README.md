@@ -9,8 +9,11 @@ It based on [molokai](https://github.com/tomasr/molokai) theme and [Godot's](htt
 **Screenshot:**
 ==========
 ![2](https://user-images.githubusercontent.com/109857267/188645822-eb759e44-1c0f-4927-ae57-dc70e2812250.png)
+_font: `JetBrains-mono`_
+
+
 Installation
-------------
+==========
 
 Download the `ghashy.vim` file and put it in ~/.vim/colors/ folder.
 
