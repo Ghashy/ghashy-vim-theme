@@ -106,8 +106,8 @@ hi TabLine         guibg=#1B1D1E guifg=#808080 gui=none
 
 hi CocErrorSign         guifg=#F92672 guibg=#1e222e gui=bold
 hi CocWarningSign       guifg=#FF922B guibg=#1e222e gui=bold
-hi gdscriptLibrary      guifg=#f06277
-hi gdscriptFunctionCall guifg=#57b3ff
+hi Library      guifg=#f06277
+hi FunctionCall guifg=#57b3ff
 
 if s:ghashy_alternative == 1
    hi Normal          guifg=#F8F8F2 guibg=#272822
