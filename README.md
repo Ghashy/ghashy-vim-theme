@@ -12,7 +12,7 @@ It based on [molokai](https://github.com/tomasr/molokai) theme and [Godot's](htt
 _font: `JetBrains-mono`_
 
 
-Installation
+Installation:
 ==========
 
 Download the `ghashy.vim` file and put it in ~/.vim/colors/ folder.
