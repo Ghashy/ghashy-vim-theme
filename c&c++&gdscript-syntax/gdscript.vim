@@ -117,10 +117,10 @@ hi def link gdscriptFunctionName Function
 hi def link gdscriptTypeDecl Identifier
 hi def link gdscriptExportTypeDecl Identifier
 hi def link gdscriptSetGetSeparator Normal
-hi def link gdscriptLibrary Operator
+hi def link gdscriptLibrary Library
 if get(g:, "godot_ext_hl", v:true)
     hi def link gdscriptClass Type
-    hi def link gdscriptFunctionCall Function
+    hi def link gdscriptFunctionCall FunctionCall
     hi def link gdscriptPropertyCall Identifier
     hi def link gdscriptDelimiter Delimiter
     hi def link gdscriptConstant Constant

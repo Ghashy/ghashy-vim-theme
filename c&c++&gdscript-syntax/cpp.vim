@@ -182,7 +182,7 @@ endif
 " Default highlighting
 hi def link cppSTLbool         Boolean
 hi def link cppStatement       Statement
-hi def link cppSTLfunction     Function
+hi def link cppSTLfunction     Library
 hi def link cppSTLdefine       Constant
 hi def link cppSTLconstant     Constant
 hi def link cppSTLnamespace    Constant
